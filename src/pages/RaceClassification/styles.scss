@@ -1,0 +1,17 @@
+@import '../../styles/imports.scss';
+
+.race-classification {
+  .main-btn {
+    & + .main-btn {
+      margin: 16px 0 0;
+    }
+  }
+
+  .main-block {
+    margin: 0 0 20px;
+
+    @include sm {
+      margin: 0;
+    }
+  }
+}

@@ -1,0 +1,29 @@
+@import '../../styles/imports.scss';
+
+.main-btn {
+  border: 2px solid $darkGrey;
+  width: 100%;
+  background-color: $darkGrey;
+  color: $lightGrey;
+  border-radius: 8px;
+  padding: 8px;
+  font-size: 14px;
+  letter-spacing: 0.4px;
+  font-weight: 500;
+  transition: 300ms ease-out;
+
+  @include sm {
+    font-size: 18px;
+    padding: 12px 20px;
+  }
+
+  &:hover:not(:disabled) {
+    background-color: $lightGrey;
+    color: $darkGrey;
+  }
+
+  &:disabled {
+    opacity: 0.3;
+    cursor: not-allowed;
+  }
+}

@@ -1,0 +1,51 @@
+@import '../../styles/imports.scss';
+
+.main-header {
+  border: 3px solid $darkGrey;
+  border-radius: 20px;
+  padding: 12px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin: 0 0 40px;
+
+  @include xs {
+    margin: 0 0 50px;
+  }
+
+  @include md {
+    padding: 20px;
+  }
+}
+
+.logo {
+  max-width: 50px;
+  margin-right: 20px;
+
+  @include sm {
+    max-width: 75px;
+  }
+
+  @include md {
+    max-width: 100px;
+  }
+}
+
+.main-title {
+  font-size: 26px;
+  line-height: 26px;
+  font-weight: 500;
+  margin: 0;
+  color: $darkGrey;
+
+  @include sm {
+    font-weight: 400;
+    font-size: 52px;
+    line-height: 40px;
+  }
+
+  @include md {
+    font-size: 64px;
+    line-height: 64px;
+  }
+}

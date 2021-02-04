@@ -1,0 +1,117 @@
+@import '../../styles/imports.scss';
+
+.racer-list-wrapper {
+  .racer-list {
+    list-style-type: none;
+    margin: 0;
+
+    .racer {
+      background-color: $darkGrey;
+      border-radius: 4px;
+      padding: 5px 12px;
+
+      & + .racer {
+        margin: 10px 0 0;
+      }
+
+      .text-wrapper {
+        display: flex;
+        flex-direction: column;
+
+        @include sm {
+          flex-direction: row;
+        }
+
+        .data {
+          margin: 0;
+          font-size: 13px;
+
+          @include xs {
+            font-size: 14px;
+          }
+
+          @include xs {
+            font-size: 16px;
+          }
+
+          &:first-child {
+            strong {
+              margin-right: 2px;
+
+              @include sm {
+                margin-right: 5px;
+              }
+            }
+
+            span {
+              font-weight: 700;
+            }
+          }
+
+          & + .data {
+            @include sm {
+              margin-left: 20px;
+            }
+          }
+        }
+      }
+
+      span {
+        color: $lightGrey;
+      }
+
+      strong {
+        color: $lightGrey;
+        font-weight: 700;
+      }
+    }
+
+    &.show-winners {
+      .racer {
+        .data {
+          &.winner {
+            display: flex;
+            align-items: center;
+
+            @include sm {
+              display: block;
+            }
+
+            span,
+            strong {
+              line-height: 16px;
+              color: $darkGrey;
+            }
+          }
+
+          &:first-child {
+            strong {
+              margin: 0;
+            }
+          }
+        }
+
+        span {
+          &:before {
+            content: '-';
+            width: 10px;
+            height: 10px;
+            margin: 0 5px;
+          }
+        }
+
+        &:nth-child(1) {
+          background-color: $gold;
+        }
+
+        &:nth-child(2) {
+          background-color: $silver;
+        }
+
+        &:nth-child(3) {
+          background-color: $bronze;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "Automobile",
+    "displayName": "Automobile"
+  },
+  {
+    "id": "Name",
+    "displayName": "Name"
+  },
+  {
+    "id": "TotalLaps",
+    "displayName": "TotalLaps"
+  },
+  {
+    "id": "TotalTime",
+    "displayName": "TotalTime"
+  },
+  {
+    "id": "BestLap",
+    "displayName": "BestLap"
+  },
+  {
+    "id": "TimeBestLap",
+    "displayName": "TimeBestLap"
+  },
+  {
+    "id": "Diff",
+    "displayName": "Diff"
+  },
+  {
+    "id": "Gap",
+    "displayName": "Gap"
+  },
+  {
+    "id": "StartingGrid",
+    "displayName": "StartingGrid"
+  },
+  {
+    "id": "AverageVelocity",
+    "displayName": "AverageVelocity"
+  }
+]

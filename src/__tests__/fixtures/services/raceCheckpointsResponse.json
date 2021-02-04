@@ -1,0 +1,44 @@
+{
+  "payload": [
+    {
+      "id": "sensor-0",
+      "position": 0,
+      "log": [
+        {
+          "car": "2f8b447b-0749-4d21-8b47-b413ff8ce02c",
+          "timestamp": 1612468165372
+        }
+      ]
+    },
+    {
+      "id": "sensor-130",
+      "position": 130,
+      "log": []
+    },
+    {
+      "id": "sensor-200",
+      "position": 200,
+      "log": []
+    },
+    {
+      "id": "sensor-400",
+      "position": 400,
+      "log": []
+    },
+    {
+      "id": "sensor-500",
+      "position": 500,
+      "log": []
+    },
+    {
+      "id": "sensor-710",
+      "position": 710,
+      "log": []
+    },
+    {
+      "id": "sensor-900",
+      "position": 900,
+      "log": []
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+@import '../../styles/imports.scss';
+
+.input-wrapper {
+  .input-field {
+    border: 2px solid $darkGrey;
+    border-radius: 4px;
+    background-color: transparent;
+    color: $darkGrey;
+    padding: 4px 8px;
+    width: 100%;
+    box-shadow: 0 0 0 0 transparent;
+    transition: 300ms ease;
+    font-weight: 500;
+
+    &:focus {
+      border: 2px solid $darkGrey;
+      outline: none;
+      box-shadow: 0 0 10px 0 rgba($color: $darkGrey, $alpha: 1);
+    }
+  }
+
+  .input-error {
+    color: $error;
+    font-weight: 700;
+    font-size: 12px;
+    margin: 5px 0 0;
+    line-height: 14px;
+
+    @include sm {
+      font-size: 12px;
+      margin: 3px 0 0;
+    }
+  }
+
+  &.error {
+    .input-field {
+      border-color: $error;
+      color: $error;
+
+      &:focus {
+        box-shadow: 0 0 5px 0 rgba($color: $error, $alpha: 1);
+      }
+    }
+  }
+}

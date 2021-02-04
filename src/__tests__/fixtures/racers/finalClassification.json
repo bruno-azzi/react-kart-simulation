@@ -1,0 +1,1080 @@
+[
+  {
+    "id": "2f8b447b-0749-4d21-8b47-b413ff8ce02c",
+    "name": "Racer #1",
+    "currentLap": 1,
+    "currentSpeed": "30.4",
+    "averageSpeed": "29.3",
+    "startingPlace": 1,
+    "distance": 1130,
+    "totalTime": 138963,
+    "bestLapNumber": 1,
+    "bestLapTime": 138973,
+    "timeDiffFromLeader": 0,
+    "timeDiffFromAntecessorRacer": 0,
+    "checkpoints": [
+      {
+        "id": "sensor-0",
+        "lapsPassed": [
+          {
+            "car": "2f8b447b-0749-4d21-8b47-b413ff8ce02c",
+            "timestamp": 1612448945576,
+            "position": 0
+          },
+          {
+            "car": "2f8b447b-0749-4d21-8b47-b413ff8ce02c",
+            "timestamp": 1612449084549,
+            "position": 0
+          }
+        ],
+        "position": 0
+      },
+      {
+        "id": "sensor-130",
+        "lapsPassed": [
+          {
+            "car": "2f8b447b-0749-4d21-8b47-b413ff8ce02c",
+            "timestamp": 1612448961251,
+            "position": 130
+          }
+        ],
+        "position": 130
+      },
+      {
+        "id": "sensor-200",
+        "lapsPassed": [
+          {
+            "car": "2f8b447b-0749-4d21-8b47-b413ff8ce02c",
+            "timestamp": 1612448969979,
+            "position": 200
+          }
+        ],
+        "position": 200
+      },
+      {
+        "id": "sensor-400",
+        "lapsPassed": [
+          {
+            "car": "2f8b447b-0749-4d21-8b47-b413ff8ce02c",
+            "timestamp": 1612448993972,
+            "position": 400
+          }
+        ],
+        "position": 400
+      },
+      {
+        "id": "sensor-500",
+        "lapsPassed": [
+          {
+            "car": "2f8b447b-0749-4d21-8b47-b413ff8ce02c",
+            "timestamp": 1612449006826,
+            "position": 500
+          }
+        ],
+        "position": 500
+      },
+      {
+        "id": "sensor-710",
+        "lapsPassed": [
+          {
+            "car": "2f8b447b-0749-4d21-8b47-b413ff8ce02c",
+            "timestamp": 1612449035438,
+            "position": 710
+          }
+        ],
+        "position": 710
+      },
+      {
+        "id": "sensor-900",
+        "lapsPassed": [
+          {
+            "car": "2f8b447b-0749-4d21-8b47-b413ff8ce02c",
+            "timestamp": 1612449057307,
+            "position": 900
+          }
+        ],
+        "position": 900
+      }
+    ]
+  },
+  {
+    "id": "d0bf1cbb-7a48-49a5-87d8-78e14111b921",
+    "name": "Racer #2",
+    "currentLap": 1,
+    "currentSpeed": "29.3",
+    "averageSpeed": "29.1",
+    "startingPlace": 2,
+    "distance": 1130,
+    "totalTime": 142803,
+    "bestLapNumber": 1,
+    "bestLapTime": 140321,
+    "timeDiffFromLeader": 3840,
+    "timeDiffFromAntecessorRacer": 3840,
+    "checkpoints": [
+      {
+        "id": "sensor-0",
+        "lapsPassed": [
+          {
+            "car": "d0bf1cbb-7a48-49a5-87d8-78e14111b921",
+            "timestamp": 1612448948068,
+            "position": 0
+          },
+          {
+            "car": "d0bf1cbb-7a48-49a5-87d8-78e14111b921",
+            "timestamp": 1612449088389,
+            "position": 0
+          }
+        ],
+        "position": 0
+      },
+      {
+        "id": "sensor-130",
+        "lapsPassed": [
+          {
+            "car": "d0bf1cbb-7a48-49a5-87d8-78e14111b921",
+            "timestamp": 1612448963441,
+            "position": 130
+          }
+        ],
+        "position": 130
+      },
+      {
+        "id": "sensor-200",
+        "lapsPassed": [
+          {
+            "car": "d0bf1cbb-7a48-49a5-87d8-78e14111b921",
+            "timestamp": 1612448971890,
+            "position": 200
+          }
+        ],
+        "position": 200
+      },
+      {
+        "id": "sensor-400",
+        "lapsPassed": [
+          {
+            "car": "d0bf1cbb-7a48-49a5-87d8-78e14111b921",
+            "timestamp": 1612448996589,
+            "position": 400
+          }
+        ],
+        "position": 400
+      },
+      {
+        "id": "sensor-500",
+        "lapsPassed": [
+          {
+            "car": "d0bf1cbb-7a48-49a5-87d8-78e14111b921",
+            "timestamp": 1612449009923,
+            "position": 500
+          }
+        ],
+        "position": 500
+      },
+      {
+        "id": "sensor-710",
+        "lapsPassed": [
+          {
+            "car": "d0bf1cbb-7a48-49a5-87d8-78e14111b921",
+            "timestamp": 1612449037841,
+            "position": 710
+          }
+        ],
+        "position": 710
+      },
+      {
+        "id": "sensor-900",
+        "lapsPassed": [
+          {
+            "car": "d0bf1cbb-7a48-49a5-87d8-78e14111b921",
+            "timestamp": 1612449060131,
+            "position": 900
+          }
+        ],
+        "position": 900
+      }
+    ]
+  },
+  {
+    "id": "1b325f64-ece1-48db-940b-9e05188c0b5c",
+    "name": "Racer #3",
+    "currentLap": 1,
+    "currentSpeed": "28.6",
+    "averageSpeed": "29.2",
+    "startingPlace": 3,
+    "distance": 1130,
+    "totalTime": 145568,
+    "bestLapNumber": 1,
+    "bestLapTime": 140685,
+    "timeDiffFromLeader": 6605,
+    "timeDiffFromAntecessorRacer": 2765,
+    "checkpoints": [
+      {
+        "id": "sensor-0",
+        "lapsPassed": [
+          {
+            "car": "1b325f64-ece1-48db-940b-9e05188c0b5c",
+            "timestamp": 1612448950469,
+            "position": 0
+          },
+          {
+            "car": "1b325f64-ece1-48db-940b-9e05188c0b5c",
+            "timestamp": 1612449091154,
+            "position": 0
+          }
+        ],
+        "position": 0
+      },
+      {
+        "id": "sensor-130",
+        "lapsPassed": [
+          {
+            "car": "1b325f64-ece1-48db-940b-9e05188c0b5c",
+            "timestamp": 1612448966365,
+            "position": 130
+          }
+        ],
+        "position": 130
+      },
+      {
+        "id": "sensor-200",
+        "lapsPassed": [
+          {
+            "car": "1b325f64-ece1-48db-940b-9e05188c0b5c",
+            "timestamp": 1612448974450,
+            "position": 200
+          }
+        ],
+        "position": 200
+      },
+      {
+        "id": "sensor-400",
+        "lapsPassed": [
+          {
+            "car": "1b325f64-ece1-48db-940b-9e05188c0b5c",
+            "timestamp": 1612448999442,
+            "position": 400
+          }
+        ],
+        "position": 400
+      },
+      {
+        "id": "sensor-500",
+        "lapsPassed": [
+          {
+            "car": "1b325f64-ece1-48db-940b-9e05188c0b5c",
+            "timestamp": 1612449011960,
+            "position": 500
+          }
+        ],
+        "position": 500
+      },
+      {
+        "id": "sensor-710",
+        "lapsPassed": [
+          {
+            "car": "1b325f64-ece1-48db-940b-9e05188c0b5c",
+            "timestamp": 1612449039780,
+            "position": 710
+          }
+        ],
+        "position": 710
+      },
+      {
+        "id": "sensor-900",
+        "lapsPassed": [
+          {
+            "car": "1b325f64-ece1-48db-940b-9e05188c0b5c",
+            "timestamp": 1612449062207,
+            "position": 900
+          }
+        ],
+        "position": 900
+      }
+    ]
+  },
+  {
+    "id": "a2d0fb6a-f2ef-4a68-b185-b189bd113faa",
+    "name": "Racer #4",
+    "currentLap": 1,
+    "currentSpeed": "28.7",
+    "averageSpeed": "28.7",
+    "startingPlace": 4,
+    "distance": 1130,
+    "totalTime": 148705,
+    "bestLapNumber": 1,
+    "bestLapTime": 141715,
+    "timeDiffFromLeader": 9742,
+    "timeDiffFromAntecessorRacer": 3137,
+    "checkpoints": [
+      {
+        "id": "sensor-0",
+        "lapsPassed": [
+          {
+            "car": "a2d0fb6a-f2ef-4a68-b185-b189bd113faa",
+            "timestamp": 1612448952576,
+            "position": 0
+          },
+          {
+            "car": "a2d0fb6a-f2ef-4a68-b185-b189bd113faa",
+            "timestamp": 1612449094291,
+            "position": 0
+          }
+        ],
+        "position": 0
+      },
+      {
+        "id": "sensor-130",
+        "lapsPassed": [
+          {
+            "car": "a2d0fb6a-f2ef-4a68-b185-b189bd113faa",
+            "timestamp": 1612448968342,
+            "position": 130
+          }
+        ],
+        "position": 130
+      },
+      {
+        "id": "sensor-200",
+        "lapsPassed": [
+          {
+            "car": "a2d0fb6a-f2ef-4a68-b185-b189bd113faa",
+            "timestamp": 1612448977176,
+            "position": 200
+          }
+        ],
+        "position": 200
+      },
+      {
+        "id": "sensor-400",
+        "lapsPassed": [
+          {
+            "car": "a2d0fb6a-f2ef-4a68-b185-b189bd113faa",
+            "timestamp": 1612449001187,
+            "position": 400
+          }
+        ],
+        "position": 400
+      },
+      {
+        "id": "sensor-500",
+        "lapsPassed": [
+          {
+            "car": "a2d0fb6a-f2ef-4a68-b185-b189bd113faa",
+            "timestamp": 1612449013941,
+            "position": 500
+          }
+        ],
+        "position": 500
+      },
+      {
+        "id": "sensor-710",
+        "lapsPassed": [
+          {
+            "car": "a2d0fb6a-f2ef-4a68-b185-b189bd113faa",
+            "timestamp": 1612449042037,
+            "position": 710
+          }
+        ],
+        "position": 710
+      },
+      {
+        "id": "sensor-900",
+        "lapsPassed": [
+          {
+            "car": "a2d0fb6a-f2ef-4a68-b185-b189bd113faa",
+            "timestamp": 1612449065422,
+            "position": 900
+          }
+        ],
+        "position": 900
+      }
+    ]
+  },
+  {
+    "id": "69969258-7cfb-4f6d-91dd-d91932d0d99f",
+    "name": "Racer #5",
+    "currentLap": 1,
+    "currentSpeed": "29.6",
+    "averageSpeed": "29.2",
+    "startingPlace": 5,
+    "distance": 1130,
+    "totalTime": 149542,
+    "bestLapNumber": 1,
+    "bestLapTime": 139995,
+    "timeDiffFromLeader": 10579,
+    "timeDiffFromAntecessorRacer": 837,
+    "checkpoints": [
+      {
+        "id": "sensor-0",
+        "lapsPassed": [
+          {
+            "car": "69969258-7cfb-4f6d-91dd-d91932d0d99f",
+            "timestamp": 1612448955133,
+            "position": 0
+          },
+          {
+            "car": "69969258-7cfb-4f6d-91dd-d91932d0d99f",
+            "timestamp": 1612449095128,
+            "position": 0
+          }
+        ],
+        "position": 0
+      },
+      {
+        "id": "sensor-130",
+        "lapsPassed": [
+          {
+            "car": "69969258-7cfb-4f6d-91dd-d91932d0d99f",
+            "timestamp": 1612448970835,
+            "position": 130
+          }
+        ],
+        "position": 130
+      },
+      {
+        "id": "sensor-200",
+        "lapsPassed": [
+          {
+            "car": "69969258-7cfb-4f6d-91dd-d91932d0d99f",
+            "timestamp": 1612448978971,
+            "position": 200
+          }
+        ],
+        "position": 200
+      },
+      {
+        "id": "sensor-400",
+        "lapsPassed": [
+          {
+            "car": "69969258-7cfb-4f6d-91dd-d91932d0d99f",
+            "timestamp": 1612449003662,
+            "position": 400
+          }
+        ],
+        "position": 400
+      },
+      {
+        "id": "sensor-500",
+        "lapsPassed": [
+          {
+            "car": "69969258-7cfb-4f6d-91dd-d91932d0d99f",
+            "timestamp": 1612449016716,
+            "position": 500
+          }
+        ],
+        "position": 500
+      },
+      {
+        "id": "sensor-710",
+        "lapsPassed": [
+          {
+            "car": "69969258-7cfb-4f6d-91dd-d91932d0d99f",
+            "timestamp": 1612449043505,
+            "position": 710
+          }
+        ],
+        "position": 710
+      },
+      {
+        "id": "sensor-900",
+        "lapsPassed": [
+          {
+            "car": "69969258-7cfb-4f6d-91dd-d91932d0d99f",
+            "timestamp": 1612449067166,
+            "position": 900
+          }
+        ],
+        "position": 900
+      }
+    ]
+  },
+  {
+    "id": "dfcd9a72-ef75-4100-8e27-710054893475",
+    "name": "Racer #6",
+    "currentLap": 1,
+    "currentSpeed": "29.6",
+    "averageSpeed": "29.0",
+    "startingPlace": 6,
+    "distance": 1130,
+    "totalTime": 150650,
+    "bestLapNumber": 1,
+    "bestLapTime": 139224,
+    "timeDiffFromLeader": 11687,
+    "timeDiffFromAntecessorRacer": 1108,
+    "checkpoints": [
+      {
+        "id": "sensor-0",
+        "lapsPassed": [
+          {
+            "car": "dfcd9a72-ef75-4100-8e27-710054893475",
+            "timestamp": 1612448957012,
+            "position": 0
+          },
+          {
+            "car": "dfcd9a72-ef75-4100-8e27-710054893475",
+            "timestamp": 1612449096236,
+            "position": 0
+          }
+        ],
+        "position": 0
+      },
+      {
+        "id": "sensor-130",
+        "lapsPassed": [
+          {
+            "car": "dfcd9a72-ef75-4100-8e27-710054893475",
+            "timestamp": 1612448972999,
+            "position": 130
+          }
+        ],
+        "position": 130
+      },
+      {
+        "id": "sensor-200",
+        "lapsPassed": [
+          {
+            "car": "dfcd9a72-ef75-4100-8e27-710054893475",
+            "timestamp": 1612448981616,
+            "position": 200
+          }
+        ],
+        "position": 200
+      },
+      {
+        "id": "sensor-400",
+        "lapsPassed": [
+          {
+            "car": "dfcd9a72-ef75-4100-8e27-710054893475",
+            "timestamp": 1612449005732,
+            "position": 400
+          }
+        ],
+        "position": 400
+      },
+      {
+        "id": "sensor-500",
+        "lapsPassed": [
+          {
+            "car": "dfcd9a72-ef75-4100-8e27-710054893475",
+            "timestamp": 1612449019480,
+            "position": 500
+          }
+        ],
+        "position": 500
+      },
+      {
+        "id": "sensor-710",
+        "lapsPassed": [
+          {
+            "car": "dfcd9a72-ef75-4100-8e27-710054893475",
+            "timestamp": 1612449045426,
+            "position": 710
+          }
+        ],
+        "position": 710
+      },
+      {
+        "id": "sensor-900",
+        "lapsPassed": [
+          {
+            "car": "dfcd9a72-ef75-4100-8e27-710054893475",
+            "timestamp": 1612449068218,
+            "position": 900
+          }
+        ],
+        "position": 900
+      }
+    ]
+  },
+  {
+    "id": "751c8a9d-7b06-47f4-b56f-1775d216cb03",
+    "name": "Racer #7",
+    "currentLap": 1,
+    "currentSpeed": "30.9",
+    "averageSpeed": "29.1",
+    "startingPlace": 7,
+    "distance": 1130,
+    "totalTime": 153982,
+    "bestLapNumber": 1,
+    "bestLapTime": 139235,
+    "timeDiffFromLeader": 15019,
+    "timeDiffFromAntecessorRacer": 3332,
+    "checkpoints": [
+      {
+        "id": "sensor-0",
+        "lapsPassed": [
+          {
+            "car": "751c8a9d-7b06-47f4-b56f-1775d216cb03",
+            "timestamp": 1612448960333,
+            "position": 0
+          },
+          {
+            "car": "751c8a9d-7b06-47f4-b56f-1775d216cb03",
+            "timestamp": 1612449099568,
+            "position": 0
+          }
+        ],
+        "position": 0
+      },
+      {
+        "id": "sensor-130",
+        "lapsPassed": [
+          {
+            "car": "751c8a9d-7b06-47f4-b56f-1775d216cb03",
+            "timestamp": 1612448976051,
+            "position": 130
+          }
+        ],
+        "position": 130
+      },
+      {
+        "id": "sensor-200",
+        "lapsPassed": [
+          {
+            "car": "751c8a9d-7b06-47f4-b56f-1775d216cb03",
+            "timestamp": 1612448984682,
+            "position": 200
+          }
+        ],
+        "position": 200
+      },
+      {
+        "id": "sensor-400",
+        "lapsPassed": [
+          {
+            "car": "751c8a9d-7b06-47f4-b56f-1775d216cb03",
+            "timestamp": 1612449008508,
+            "position": 400
+          }
+        ],
+        "position": 400
+      },
+      {
+        "id": "sensor-500",
+        "lapsPassed": [
+          {
+            "car": "751c8a9d-7b06-47f4-b56f-1775d216cb03",
+            "timestamp": 1612449022291,
+            "position": 500
+          }
+        ],
+        "position": 500
+      },
+      {
+        "id": "sensor-710",
+        "lapsPassed": [
+          {
+            "car": "751c8a9d-7b06-47f4-b56f-1775d216cb03",
+            "timestamp": 1612449049391,
+            "position": 710
+          }
+        ],
+        "position": 710
+      },
+      {
+        "id": "sensor-900",
+        "lapsPassed": [
+          {
+            "car": "751c8a9d-7b06-47f4-b56f-1775d216cb03",
+            "timestamp": 1612449072758,
+            "position": 900
+          }
+        ],
+        "position": 900
+      }
+    ]
+  },
+  {
+    "id": "dba8df5a-b4df-4678-8520-d679e2c0e312",
+    "name": "Racer #8",
+    "currentLap": 1,
+    "currentSpeed": "29.4",
+    "averageSpeed": "28.8",
+    "startingPlace": 8,
+    "distance": 1130,
+    "totalTime": 157772,
+    "bestLapNumber": 1,
+    "bestLapTime": 140709,
+    "timeDiffFromLeader": 18809,
+    "timeDiffFromAntecessorRacer": 3790,
+    "checkpoints": [
+      {
+        "id": "sensor-0",
+        "lapsPassed": [
+          {
+            "car": "dba8df5a-b4df-4678-8520-d679e2c0e312",
+            "timestamp": 1612448962649,
+            "position": 0
+          },
+          {
+            "car": "dba8df5a-b4df-4678-8520-d679e2c0e312",
+            "timestamp": 1612449103358,
+            "position": 0
+          }
+        ],
+        "position": 0
+      },
+      {
+        "id": "sensor-130",
+        "lapsPassed": [
+          {
+            "car": "dba8df5a-b4df-4678-8520-d679e2c0e312",
+            "timestamp": 1612448978770,
+            "position": 130
+          }
+        ],
+        "position": 130
+      },
+      {
+        "id": "sensor-200",
+        "lapsPassed": [
+          {
+            "car": "dba8df5a-b4df-4678-8520-d679e2c0e312",
+            "timestamp": 1612448987347,
+            "position": 200
+          }
+        ],
+        "position": 200
+      },
+      {
+        "id": "sensor-400",
+        "lapsPassed": [
+          {
+            "car": "dba8df5a-b4df-4678-8520-d679e2c0e312",
+            "timestamp": 1612449012508,
+            "position": 400
+          }
+        ],
+        "position": 400
+      },
+      {
+        "id": "sensor-500",
+        "lapsPassed": [
+          {
+            "car": "dba8df5a-b4df-4678-8520-d679e2c0e312",
+            "timestamp": 1612449025835,
+            "position": 500
+          }
+        ],
+        "position": 500
+      },
+      {
+        "id": "sensor-710",
+        "lapsPassed": [
+          {
+            "car": "dba8df5a-b4df-4678-8520-d679e2c0e312",
+            "timestamp": 1612449052244,
+            "position": 710
+          }
+        ],
+        "position": 710
+      },
+      {
+        "id": "sensor-900",
+        "lapsPassed": [
+          {
+            "car": "dba8df5a-b4df-4678-8520-d679e2c0e312",
+            "timestamp": 1612449075206,
+            "position": 900
+          }
+        ],
+        "position": 900
+      }
+    ]
+  },
+  {
+    "id": "fac3235d-d012-46a3-928c-6de14958fb64",
+    "name": "Racer #9",
+    "currentLap": 1,
+    "currentSpeed": "29.9",
+    "averageSpeed": "29.0",
+    "startingPlace": 9,
+    "distance": 1130,
+    "totalTime": 159330,
+    "bestLapNumber": 1,
+    "bestLapTime": 139436,
+    "timeDiffFromLeader": 20367,
+    "timeDiffFromAntecessorRacer": 1558,
+    "checkpoints": [
+      {
+        "id": "sensor-0",
+        "lapsPassed": [
+          {
+            "car": "fac3235d-d012-46a3-928c-6de14958fb64",
+            "timestamp": 1612448965480,
+            "position": 0
+          },
+          {
+            "car": "fac3235d-d012-46a3-928c-6de14958fb64",
+            "timestamp": 1612449104916,
+            "position": 0
+          }
+        ],
+        "position": 0
+      },
+      {
+        "id": "sensor-130",
+        "lapsPassed": [
+          {
+            "car": "fac3235d-d012-46a3-928c-6de14958fb64",
+            "timestamp": 1612448981104,
+            "position": 130
+          }
+        ],
+        "position": 130
+      },
+      {
+        "id": "sensor-200",
+        "lapsPassed": [
+          {
+            "car": "fac3235d-d012-46a3-928c-6de14958fb64",
+            "timestamp": 1612448989701,
+            "position": 200
+          }
+        ],
+        "position": 200
+      },
+      {
+        "id": "sensor-400",
+        "lapsPassed": [
+          {
+            "car": "fac3235d-d012-46a3-928c-6de14958fb64",
+            "timestamp": 1612449015112,
+            "position": 400
+          }
+        ],
+        "position": 400
+      },
+      {
+        "id": "sensor-500",
+        "lapsPassed": [
+          {
+            "car": "fac3235d-d012-46a3-928c-6de14958fb64",
+            "timestamp": 1612449028958,
+            "position": 500
+          }
+        ],
+        "position": 500
+      },
+      {
+        "id": "sensor-710",
+        "lapsPassed": [
+          {
+            "car": "fac3235d-d012-46a3-928c-6de14958fb64",
+            "timestamp": 1612449054518,
+            "position": 710
+          }
+        ],
+        "position": 710
+      },
+      {
+        "id": "sensor-900",
+        "lapsPassed": [
+          {
+            "car": "fac3235d-d012-46a3-928c-6de14958fb64",
+            "timestamp": 1612449077199,
+            "position": 900
+          }
+        ],
+        "position": 900
+      }
+    ]
+  },
+  {
+    "id": "b6fd6d51-3a20-4c70-aa42-1450f3df7b2b",
+    "name": "Racer #10",
+    "currentLap": 1,
+    "currentSpeed": "29.3",
+    "averageSpeed": "28.8",
+    "startingPlace": 10,
+    "distance": 1130,
+    "totalTime": 162898,
+    "bestLapNumber": 1,
+    "bestLapTime": 141271,
+    "timeDiffFromLeader": 23935,
+    "timeDiffFromAntecessorRacer": 3568,
+    "checkpoints": [
+      {
+        "id": "sensor-0",
+        "lapsPassed": [
+          {
+            "car": "b6fd6d51-3a20-4c70-aa42-1450f3df7b2b",
+            "timestamp": 1612448967213,
+            "position": 0
+          },
+          {
+            "car": "b6fd6d51-3a20-4c70-aa42-1450f3df7b2b",
+            "timestamp": 1612449108484,
+            "position": 0
+          }
+        ],
+        "position": 0
+      },
+      {
+        "id": "sensor-130",
+        "lapsPassed": [
+          {
+            "car": "b6fd6d51-3a20-4c70-aa42-1450f3df7b2b",
+            "timestamp": 1612448982848,
+            "position": 130
+          }
+        ],
+        "position": 130
+      },
+      {
+        "id": "sensor-200",
+        "lapsPassed": [
+          {
+            "car": "b6fd6d51-3a20-4c70-aa42-1450f3df7b2b",
+            "timestamp": 1612448991386,
+            "position": 200
+          }
+        ],
+        "position": 200
+      },
+      {
+        "id": "sensor-400",
+        "lapsPassed": [
+          {
+            "car": "b6fd6d51-3a20-4c70-aa42-1450f3df7b2b",
+            "timestamp": 1612449018017,
+            "position": 400
+          }
+        ],
+        "position": 400
+      },
+      {
+        "id": "sensor-500",
+        "lapsPassed": [
+          {
+            "car": "b6fd6d51-3a20-4c70-aa42-1450f3df7b2b",
+            "timestamp": 1612449031804,
+            "position": 500
+          }
+        ],
+        "position": 500
+      },
+      {
+        "id": "sensor-710",
+        "lapsPassed": [
+          {
+            "car": "b6fd6d51-3a20-4c70-aa42-1450f3df7b2b",
+            "timestamp": 1612449056994,
+            "position": 710
+          }
+        ],
+        "position": 710
+      },
+      {
+        "id": "sensor-900",
+        "lapsPassed": [
+          {
+            "car": "b6fd6d51-3a20-4c70-aa42-1450f3df7b2b",
+            "timestamp": 1612449080192,
+            "position": 900
+          }
+        ],
+        "position": 900
+      }
+    ]
+  },
+  {
+    "id": "8830bb76-6296-49b5-b6be-047f2f0bd88f",
+    "name": "Racer #11",
+    "currentLap": 1,
+    "currentSpeed": "29.7",
+    "averageSpeed": "28.8",
+    "startingPlace": 11,
+    "distance": 1130,
+    "totalTime": 165612,
+    "bestLapNumber": 1,
+    "bestLapTime": 141688,
+    "timeDiffFromLeader": 26649,
+    "timeDiffFromAntecessorRacer": 2714,
+    "checkpoints": [
+      {
+        "id": "sensor-0",
+        "lapsPassed": [
+          {
+            "car": "8830bb76-6296-49b5-b6be-047f2f0bd88f",
+            "timestamp": 1612448969510,
+            "position": 0
+          },
+          {
+            "car": "8830bb76-6296-49b5-b6be-047f2f0bd88f",
+            "timestamp": 1612449111198,
+            "position": 0
+          }
+        ],
+        "position": 0
+      },
+      {
+        "id": "sensor-130",
+        "lapsPassed": [
+          {
+            "car": "8830bb76-6296-49b5-b6be-047f2f0bd88f",
+            "timestamp": 1612448985942,
+            "position": 130
+          }
+        ],
+        "position": 130
+      },
+      {
+        "id": "sensor-200",
+        "lapsPassed": [
+          {
+            "car": "8830bb76-6296-49b5-b6be-047f2f0bd88f",
+            "timestamp": 1612448994035,
+            "position": 200
+          }
+        ],
+        "position": 200
+      },
+      {
+        "id": "sensor-400",
+        "lapsPassed": [
+          {
+            "car": "8830bb76-6296-49b5-b6be-047f2f0bd88f",
+            "timestamp": 1612449019984,
+            "position": 400
+          }
+        ],
+        "position": 400
+      },
+      {
+        "id": "sensor-500",
+        "lapsPassed": [
+          {
+            "car": "8830bb76-6296-49b5-b6be-047f2f0bd88f",
+            "timestamp": 1612449033587,
+            "position": 500
+          }
+        ],
+        "position": 500
+      },
+      {
+        "id": "sensor-710",
+        "lapsPassed": [
+          {
+            "car": "8830bb76-6296-49b5-b6be-047f2f0bd88f",
+            "timestamp": 1612449058781,
+            "position": 710
+          }
+        ],
+        "position": 710
+      },
+      {
+        "id": "sensor-900",
+        "lapsPassed": [
+          {
+            "car": "8830bb76-6296-49b5-b6be-047f2f0bd88f",
+            "timestamp": 1612449083273,
+            "position": 900
+          }
+        ],
+        "position": 900
+      }
+    ]
+  }
+]

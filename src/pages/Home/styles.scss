@@ -1,0 +1,35 @@
+@import '../../styles/imports.scss';
+
+.laps-aside {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  .main-block {
+    margin: 0 0 20px;
+
+    @include xs {
+      margin: 0;
+    }
+
+    @include sm {
+      margin-bottom: 30px;
+    }
+  }
+
+  .row {
+    height: 100%;
+
+    @include sm {
+      flex-direction: column;
+    }
+  }
+
+  .main-btn {
+    padding: 12px;
+
+    @include sm {
+      padding: 20px;
+    }
+  }
+}

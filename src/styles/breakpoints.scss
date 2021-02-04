@@ -1,0 +1,48 @@
+$grid-columns: 12 !default;
+$grid-gutter-width: 24px !default;
+
+$grid-breakpoints: (
+  xxs: 0,
+  xs: 600px,
+  sm: 768px,
+  md: 992px,
+  lg: 1024px,
+);
+
+$container-max-widths: (
+  sm: 768px,
+  md: 920px,
+  lg: 1024px,
+);
+
+@mixin xxs {
+  @media (min-width: 0) {
+    @content;
+  }
+}
+
+@mixin xs {
+  @media (min-width: map-get($grid-breakpoints, 'xs')) {
+    @content;
+  }
+}
+
+@mixin sm {
+  @media (min-width: map-get($grid-breakpoints, 'sm')) {
+    @content;
+  }
+}
+
+@mixin md {
+  @media (min-width: map-get($grid-breakpoints, 'md')) {
+    @content;
+  }
+}
+
+@mixin lg {
+  @media (min-width: map-get($grid-breakpoints, 'lg')) {
+    @content;
+  }
+}
+
+@import './bootstrap-variables.scss';

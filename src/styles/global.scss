@@ -1,0 +1,58 @@
+@import './constants.scss';
+@import './breakpoints.scss';
+@import './bootstrap.scss';
+@import 'react-toastify/dist/ReactToastify.css';
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: $primaryFont;
+}
+
+input {
+  font-family: $primaryFont;
+}
+
+html,
+body {
+  @include sm {
+    height: 100%;
+  }
+}
+
+body {
+  background-color: $lightGrey;
+  padding: 30px 0;
+
+  @include sm {
+    padding: 60px 0;
+  }
+}
+
+.main-block {
+  border: 3px solid $darkGrey;
+  border-radius: 8px;
+  padding: 50px 20px 20px;
+  position: relative;
+
+  .main-block-title {
+    background-color: $darkGrey;
+    color: $lightGrey;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 0.4px;
+    display: inline-flex;
+    margin: 0;
+    border: 2px solid $darkGrey;
+    padding: 2px 10px;
+    position: absolute;
+    top: -14px;
+    left: 8px;
+  }
+}
+
+.Toastify__toast-body {
+  color: $white;
+}

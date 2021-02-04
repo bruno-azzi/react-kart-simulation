@@ -1,0 +1,29 @@
+{
+  "payload": {
+    "cars": [
+      "2f8b447b-0749-4d21-8b47-b413ff8ce02c",
+      "d0bf1cbb-7a48-49a5-87d8-78e14111b921",
+      "1b325f64-ece1-48db-940b-9e05188c0b5c",
+      "a2d0fb6a-f2ef-4a68-b185-b189bd113faa",
+      "69969258-7cfb-4f6d-91dd-d91932d0d99f",
+      "dfcd9a72-ef75-4100-8e27-710054893475",
+      "751c8a9d-7b06-47f4-b56f-1775d216cb03",
+      "dba8df5a-b4df-4678-8520-d679e2c0e312",
+      "fac3235d-d012-46a3-928c-6de14958fb64",
+      "b6fd6d51-3a20-4c70-aa42-1450f3df7b2b",
+      "8830bb76-6296-49b5-b6be-047f2f0bd88f"
+    ],
+    "cars_count": 11,
+    "checkpoints": [
+      0,
+      130,
+      200,
+      400,
+      500,
+      710,
+      900
+    ],
+    "track_length": 1130,
+    "starting_grid_length": 20
+  }
+}
